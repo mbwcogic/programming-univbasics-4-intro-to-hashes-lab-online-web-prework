@@ -17,10 +17,7 @@ end
 
 def id_generator
   { :id => 4} 
-end
-end
-   
- 
+
   # return a hash with a key :id assigned to positive integer
 end
 
