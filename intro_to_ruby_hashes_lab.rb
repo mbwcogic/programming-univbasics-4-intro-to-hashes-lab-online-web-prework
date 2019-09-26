@@ -29,6 +29,8 @@ end
 
 
 def read_from_hash(hash, key)
+  
+  {:key =>}
   # return the correct value using the hash and key parameters
 end
 
