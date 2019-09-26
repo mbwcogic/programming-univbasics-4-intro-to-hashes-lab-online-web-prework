@@ -35,8 +35,8 @@ def read_from_hash(hash, key)
 end
 
 def update_counting_hash(hash, key)
- if shipping_manifest[key]
-  shipping_manifest[key] += 1
+ if update[key]
+  update_hash[key] += 1
 else
   puts "Key not found!"
 end
