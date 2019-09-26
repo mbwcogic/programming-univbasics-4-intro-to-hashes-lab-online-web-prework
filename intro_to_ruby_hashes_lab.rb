@@ -21,10 +21,10 @@ def id_generator
   # return a hash with a key :id assigned to positive integer
 end
 
-def my_hash_creator(key, value)
- my_hash_creator:name, "Grace Hopper"
- end
- 
+
+ def my_hash_creator(key, value)
+  my_hash_creator:name, 'Grace Hopper'
+
 # return a hash that includes the key and value parameters passed into this method
 end
 
