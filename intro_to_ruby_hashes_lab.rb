@@ -16,7 +16,8 @@ def pioneer
 end
 
 def id_generator
-  
+  { :id => 4} 
+end
 end
    
  
