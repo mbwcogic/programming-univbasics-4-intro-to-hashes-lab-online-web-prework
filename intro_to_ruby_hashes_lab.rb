@@ -38,7 +38,7 @@ def update_counting_hash(hash, key)
  if hash[key]
   update_hash[key] += 1
 else
-  puts "Key not found!"
+  update_hash[key] = 1
 end
   # given a hash an a key as parameters, return an updated hash
   # if the provided key is not present in the hash, add it and assign it to the value of 1
