@@ -30,7 +30,7 @@ end
 
 def read_from_hash(hash, key)
   
-  hash .key = value
+  hash .key = a_value
   # return the correct value using the hash and key parameters
 end
 
